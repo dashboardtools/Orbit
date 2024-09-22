@@ -1,6 +1,6 @@
-# JavaSuite - Outil de gestion des bases de données
+# DataClick- Outil de gestion des bases de données
 
-JavaSuite est une application Java qui facilite l'accès aux bases de données via des connecteurs JDBC. L'application permet aux utilisateurs d'interroger plusieurs bases de données en toute simplicité, sans avoir à écrire de code complexe. Elle est destinée aux organisations cherchant à déployer rapidement des accès sécurisés aux bases de données de leurs systèmes d'information.
+DataClick est une application Java qui facilite l'accès aux bases de données via des connecteurs JDBC. L'application permet aux utilisateurs d'interroger plusieurs bases de données en toute simplicité, sans avoir à écrire de code complexe. Elle est destinée aux organisations cherchant à déployer rapidement des accès sécurisés aux bases de données de leurs systèmes d'information.
 
 ## Fonctionnalités principales
 
