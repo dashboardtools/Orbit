@@ -1,4 +1,4 @@
-# datanube/d-clic
+# dataclick
 
 ## Making Data Accessible Through Centralized Database Access
 
