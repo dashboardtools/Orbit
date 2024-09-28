@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>datanube/d-clic - Business Intelligence Application</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        pre {
+            background: #f4f4f4;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        code {
+            font-family: "Courier New", Courier, monospace;
+            background-color: #f9f2f4;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>datanube/d-clic</h1>
+    <h2>Making Data Accessible Through Centralized Database Access</h2>
+    <p><strong>datanube/d-clic</strong> is a business intelligence tool designed to make data accessible to a broad audience within your company by centralizing access to databases. With this application, users can easily create reports, perform interactive analyses, and extract insights from raw data. The application simplifies data handling by providing easy-to-use features for non-technical users while maintaining flexibility for advanced queries.</p>
+
+    <h2>Key Features</h2>
+    <ul>
+        <li><strong>Multi-Database Queries:</strong> Generate reports by querying multiple databases simultaneously, applying dynamic filters to customize the report output (e.g., time periods, specific data subsets based on criteria like country, products, etc.).</li>
+        <li><strong>Chart Creation:</strong> Visualize your data by generating charts such as histograms, line graphs, and pie charts from your query results.</li>
+        <li><strong>Customizable Tables:</strong> Create analytical tables with data aggregation, focusing on specific axes of analysis based on your needs.</li>
+        <li><strong>Report Publishing:</strong> Organize and make reports accessible by publishing them in custom categories, directly available on the homepage for easy navigation.</li>
+        <li><strong>Dual Data Sources:</strong> Combine data from two different databases in a single report for comparative analysis or deeper insights.</li>
+        <li><strong>Interactive Filtering:</strong> After executing a report, further refine your analysis by applying filters to any available fields in the query.</li>
+        <li><strong>Data Export:</strong> Export analysis results to Excel for further use and sharing.</li>
+        <li><strong>Ease of Use:</strong> The application is designed for easy installation and usage, with a streamlined workflow to guide users through the creation and execution of queries.</li>
+    </ul>
+
+    <h2>Technologies Used</h2>
+    <ul>
+        <li><strong>Java:</strong> The application is built using Java, ensuring robustness and scalability.</li>
+        <li><strong>JFreeChart:</strong> For chart generation.</li>
+        <li><strong>JDBC:</strong> For database connections.</li>
+        <li><strong>Local Setup:</strong> Designed for local use, the application requires no specialized infrastructure and is simple to install and run.</li>
+    </ul>
+
+    <h2>Installation Guide</h2>
+    <ol>
+        <li>Download the application file and unzip it to your desired folder.</li>
+        <li>Ensure Java 8 (or higher) is installed on your system.</li>
+        <li>Launch the application by clicking on the <code>d-clic</code> icon.</li>
+        <li>Follow the in-app workflow to create and execute your first query.</li>
+    </ol>
+
+    <h2>Target Audience</h2>
+    <ul>
+        <li><strong>Financial Analysts</strong>, <strong>Reporting Teams</strong>, <strong>Developers</strong>, <strong>IT Administrators</strong>, and any users with basic SQL knowledge.</li>
+        <li>Use cases include quickly creating queries for analyses, generating reports for sales analysis, and running data control reports.</li>
+    </ul>
+
+</body>
+</html>
