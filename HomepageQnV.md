@@ -1,4 +1,4 @@
-# dataclick
+# Dataclick
 
 ## Making Data Accessible Through Centralized Database Access
 
