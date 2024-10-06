@@ -24,7 +24,7 @@
 
 ## Installation Guide
 
-1. [Download]([https://drive.google.com/drive/folders/17tn3ITE-4rKAPB_sMUWMBYXZHI6gIw37?usp=drive_link](https://drive.google.com/file/d/1f4xv7qIaSEJBJ_TvFVVyF0eE368BjNlu/view?usp=drive_link)) the application file and unzip it to your desired folder.
+1. [Download](https://drive.google.com/file/d/1f4xv7qIaSEJBJ_TvFVVyF0eE368BjNlu/view?usp=drive_link) the application file and unzip it to your desired folder.
 2. Ensure Java 8 (or higher) is installed on your system.
 3. Launch the application by clicking on the `Orbit` icon.
 4. Follow the in-app workflow to create and execute your first query.
