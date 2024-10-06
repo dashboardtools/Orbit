@@ -1,4 +1,4 @@
-# Dataclick
+# ORBIT : Operating Business Intelligence Tool
 
 ## Making Data Accessible Through Centralized Database Access
 
