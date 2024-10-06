@@ -28,6 +28,7 @@
 2. Ensure Java 8 (or higher) is installed on your system.
 3. Launch the application by clicking on the `Orbit` icon.
 4. Follow the in-app workflow to create and execute your first query.
+5. You can also use ou user guide to navigate [Documentation for ORBIT](./userGuide.md)
 
 ## Target Audience
 
