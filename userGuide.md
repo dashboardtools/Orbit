@@ -11,7 +11,7 @@ Welcome to the documentation for **ORBIT**. This guide will walk you through the
 6. [Customizing Filters](#customizing-filters)
 
 ---
-
+(./images/runing.png)
 ## **1. Installation**
 
 To install the application, follow these steps:
