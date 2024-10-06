@@ -1,6 +1,6 @@
-# **datanube/d-clic - Business Intelligence Application**
+# **ORBIT - OpeRationg Business Intelligence Tool**
 
-Welcome to the documentation for **datanube/d-clic**. This guide will walk you through the different steps to install, configure, and use the application, complete with screenshots for better understanding.
+Welcome to the documentation for **ORBIT**. This guide will walk you through the different steps to install, configure, and use the application, complete with screenshots for better understanding.
 
 ## **Table of Contents**
 1. [Installation](#installation)
@@ -21,7 +21,7 @@ To install the application, follow these steps:
 3. Ensure that **Java 8** or higher is installed on your system.
 4. Launch the application by clicking the `d-clic` icon.
 
-![Installation Screenshot](path_to_screenshot.png)
+![Installation Screenshot](./images/installation_screenshot.png)
 
 ---
 
@@ -33,7 +33,7 @@ After installing, follow these steps to create your first query:
 2. Choose the **data sources** you want to query from the available list.
 3. Apply **dynamic filters** to customize your report (e.g., time period, country, product).
 
-![Create Query Screenshot](path_to_screenshot.png)
+![Create Query Screenshot](./images/create_query_screenshot.png)
 
 ---
 
@@ -44,7 +44,7 @@ Once the query is executed, you can generate different types of charts and repor
 1. Select **"Chart Options"** to choose from histograms, line graphs, and pie charts.
 2. Customize the chart based on the data fields in your query.
 
-![Generating Charts Screenshot](path_to_screenshot.png)
+![Generating Charts Screenshot](./images/generating_charts_screenshot.png)
 
 ---
 
@@ -55,7 +55,7 @@ You can organize your reports and make them easily accessible:
 1. Select **"Publish Report"** and assign a custom category.
 2. The report will appear on the homepage under the relevant category.
 
-![Publishing Reports Screenshot](path_to_screenshot.png)
+![Publishing Reports Screenshot](./images/publishing_reports_screenshot.png)
 
 ---
 
@@ -66,7 +66,7 @@ To export the generated data:
 1. After running a report, click **"Export to Excel"**.
 2. Choose the location where you'd like to save the file.
 
-![Export Data Screenshot](path_to_screenshot.png)
+![Export Data Screenshot](./images/export_data_screenshot.png)
 
 ---
 
@@ -77,7 +77,7 @@ Refine your data analysis by applying filters to any field in your query:
 1. Open a report and use the filter options to narrow down the data.
 2. You can apply filters to any available field like date range, region, or product.
 
-![Customizing Filters Screenshot](path_to_screenshot.png)
+![Customizing Filters Screenshot](./images/customizing_filters_screenshot.png)
 
 ---
 
