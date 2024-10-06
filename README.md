@@ -1,111 +1,36 @@
-# DataClick- Outil d'accès aux bases de données
+# ORBIT : Operating Business Intelligence Tool
 
-DataClick est une application Java qui facilite l'accès aux bases de données via des connecteurs JDBC. L'application permet aux utilisateurs d'interroger plusieurs bases de données en toute simplicité, sans avoir à écrire de code complexe. Elle est destinée aux organisations cherchant à déployer rapidement des accès sécurisés aux bases de données de leurs systèmes d'information.
-![Connexion à une base de données](hompageQnV.md)
-## Fonctionnalités principales
+## Making Data Accessible Through Centralized Database Access
 
-- **Connexion multi-bases de données** : Se connecte à différentes bases de données via des connecteurs JDBC.
-- **Génération de requêtes SQL automatisée** : Créez des requêtes SQL sans avoir à écrire manuellement du code.
-- **Analyse des résultats en temps réel** : Affiche les résultats des requêtes sous forme de tableaux ou graphiques avec JFreeChart.
-- **Sauvegarde et export des requêtes** : Sauvegardez et exportez vos requêtes SQL et résultats dans divers formats (CSV, Excel).
-- **Interface utilisateur intuitive** : Application Java Swing ergonomique avec un tableau de bord complet.
-  
-## Installation
+**dORBIT** is a business intelligence tool designed to make data accessible to a broad audience within your company by centralizing access to databases. With this application, users can easily create reports, perform interactive analyses, and extract insights from raw data. The application simplifies data handling by providing easy-to-use features for non-technical users while maintaining flexibility for advanced queries.
 
-### Prérequis
+## Key Features
 
-Avant de commencer, assurez-vous que vous avez installé les éléments suivants :
+- **Multi-Database Queries:** Generate reports by querying multiple databases simultaneously, applying dynamic filters to customize the report output (e.g., time periods, specific data subsets based on criteria like country, products, etc.).
+- **Chart Creation:** Visualize your data by generating charts such as histograms, line graphs, and pie charts from your query results.
+- **Customizable Tables:** Create analytical tables with data aggregation, focusing on specific axes of analysis based on your needs.
+- **Report Publishing:** Organize and make reports accessible by publishing them in custom categories, directly available on the homepage for easy navigation.
+- **Dual Data Sources:** Combine data from two different databases in a single report for comparative analysis or deeper insights.
+- **Interactive Analysis:** After executing a report, further refine your analysis by applying filters to any available fields in the query.
+- **Data Export:** Export analysis results to Excel for further use and sharing.
+- **Ease of Use:** The application is designed for easy installation and usage, with a streamlined workflow to guide users through the creation and execution of queries.
 
-- **Java 8+** installé
-- **JDBC Drivers** pour vos bases de données (MySQL, PostgreSQL, Oracle, etc.)
-- **Maven** (si vous souhaitez compiler le projet)
+## Technologies Used
 
-### Étapes d’installation
+- **Java:** The application is built using Java, ensuring robustness and scalability.
+- **JFreeChart:** For chart generation.
+- **JDBC:** Drivers for database connections.
+- **Local Setup:** Designed for local use, the application requires no specialized infrastructure and is simple to install and run.
 
-1. **Clonez le repository GitHub** :
+## Installation Guide
 
-    ```bash
-    git clone https://github.com/tonnom/JavaSuite.git
-    ```
+1. [Download](https://drive.google.com/file/d/1f4xv7qIaSEJBJ_TvFVVyF0eE368BjNlu/view?usp=drive_link) the application file and unzip it to your desired folder.
+2. Ensure Java 8 (or higher) is installed on your system.
+3. Launch the application by clicking on the `Orbit` icon.
+4. Follow the in-app workflow to create and execute your first query.
+5. You can also use ou user guide to navigate [Documentation for ORBIT](./userGuide.md)
 
-2. **Accédez au répertoire du projet** :
+## Target Audience
 
-    ```bash
-    cd JavaSuite
-    ```
-
-3. **Compilez et exécutez l’application** :
-
-    ```bash
-    mvn clean install
-    java -jar target/JavaSuite-1.0.jar
-    ```
-
-4. **Configuration des connecteurs JDBC** :
-
-    Ajoutez les drivers JDBC pour chaque base de données que vous souhaitez utiliser dans le dossier `lib`.
-
-5. **Lancement de l’application** :
-
-    Après avoir exécuté la commande précédente, l'application devrait se lancer avec une interface graphique.
-
----
-
-## Tutoriel : Comment utiliser JavaSuite
-
-### Étape 1 : Connexion à une base de données
-
-1. **Lancez l’application** et accédez à l’onglet **"Connexion"**.
-2. Remplissez les champs de connexion avec les informations de votre base de données (nom du serveur, nom de la base, utilisateur et mot de passe).
-3. Sélectionnez le **type de base de données** (par ex., MySQL, PostgreSQL).
-
-![Connexion à une base de données](images/connexion.png)
-
-4. Cliquez sur **"Connecter"**. Si la connexion est réussie, un message de succès s’affichera.
-
-### Étape 2 : Génération d'une requête SQL
-
-1. Allez à l'onglet **"Requête SQL"**.
-2. Choisissez les tables disponibles dans la base de données connectée via le menu déroulant.
-3. Utilisez l’assistant pour sélectionner les colonnes que vous souhaitez interroger.
-
-![Sélection des tables et colonnes](images/requete_sql.png)
-
-4. Cliquez sur **"Exécuter"** pour lancer la requête et afficher les résultats.
-
-### Étape 3 : Visualisation des résultats
-
-Une fois la requête exécutée, les résultats seront affichés sous forme de tableau. Vous pouvez également utiliser l’onglet **"Graphique"** pour visualiser les données sous forme de diagrammes.
-
-![Affichage des résultats sous forme de graphique](images/graphique.png)
-
-### Étape 4 : Export des résultats
-
-1. Cliquez sur **"Exporter"** dans le tableau de bord.
-2. Choisissez le format de sortie (CSV, Excel).
-3. Sélectionnez l’emplacement pour sauvegarder le fichier.
-
-![Export des résultats](images/export.png)
-
----
-
-## Ressources supplémentaires
-
-- [Documentation complète](https://github.com/tonnom/JavaSuite/wiki)
-- [Guide pour ajouter de nouveaux connecteurs JDBC](https://github.com/tonnom/JavaSuite/wiki/Adding-JDBC-Drivers)
-
-## Support
-
-Si vous avez des questions ou des problèmes, n’hésitez pas à ouvrir une **issue** sur GitHub, ou à me contacter directement via [email](mailto:support@tonnom.com).
-
----
-
-## Contribuer
-
-Les contributions sont les bienvenues ! Veuillez lire le fichier [CONTRIBUTING.md](https://github.com/tonnom/JavaSuite/CONTRIBUTING.md) pour plus de détails sur le processus de contribution.
-
----
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](https://github.com/tonnom/JavaSuite/LICENSE.md) pour plus d’informations.
+- **Financial Analysts**, **Reporting Teams**, **Developers**, **IT Administrators**, and any users with basic SQL knowledge.
+- Use cases include quickly creating queries for analyses, generating reports for sales analysis, and running data control reports.
