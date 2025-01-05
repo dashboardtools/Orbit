@@ -33,7 +33,7 @@ After installing, follow these steps to create your first query:
 2. Choose the **data sources** you want to query from the available list.
 3. Apply **dynamic filters** to customize your report (e.g., time period, country, product).
 
-![Create Query Screenshot - STEP 1- select your database connexion](./images/Create query 1 - select connexion.png)
+![Select your database connexion](./images/Create%20query%202%20-%20fit%20query.png)
 ![Create Query Screenshot - STEP 2 fit your query](./images/Create query 2 - fit query.png)
 ---
 
