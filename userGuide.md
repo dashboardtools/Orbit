@@ -32,9 +32,14 @@ After installing, follow these steps to create your first query:
 1. Open the application, and from the home page, select **"Create Query"**.
 2. Choose the **data sources** you want to query from the available list.
 3. Apply **dynamic filters** to customize your report (e.g., time period, country, product).
-
-![Select your database connexion](./images/Create%20query%201%20-%20select%20connexion.png)
-![Create Query Screenshot - STEP 2 fit your query](./images/Create%20query%202%20-%20fit%20query.png)
+4. Select your **database connexion**
+  ![Select your database connexion](./images/Create%20query%201%20-%20select%20connexion.png)
+5. Add your **query**
+  ![Fit youre select query](./images/Create%20query%202%20-%20fit%20query.png)
+6. Add your **charts**
+  ![Create Query Screenshot - STEP 2 fit your query](./images/Create%20query%203%20-%20add%20chart.png)
+7. Add your **analytics**
+   ![Create Query Screenshot - STEP 2 fit your query](./images/Create%20query%204%20-%20add%20analytics.png)
 ---
 
 ## **3. Generating Charts and Reports**
