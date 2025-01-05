@@ -21,7 +21,7 @@ To install the application, follow these steps:
 3. Ensure that **Java 8** or higher is installed on your system.
 4. Launch the application by clicking the `d-clic` icon.
 
-![Installation Screenshot](./images/installation_screenshot.png)
+![Installation Screenshot](./images/main pages.png)
 
 ---
 
@@ -33,8 +33,8 @@ After installing, follow these steps to create your first query:
 2. Choose the **data sources** you want to query from the available list.
 3. Apply **dynamic filters** to customize your report (e.g., time period, country, product).
 
-![Create Query Screenshot](./images/create_query_screenshot.png)
-
+![Create Query Screenshot - STEP 1- select your database connexion](./images/Create query 1 - select connexion.png)
+![Create Query Screenshot - STEP 2 fit your query](./images/Create query 2 - fit query.png)
 ---
 
 ## **3. Generating Charts and Reports**
