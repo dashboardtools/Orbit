@@ -35,7 +35,7 @@ After installing, follow these steps to create your first query:
 4. Select your **database connexion**
   ![Select your database connexion](./images/Create%20query%201%20-%20select%20connexion.png)
 5. Add your **query**
-  ![Fit youre select query](./images/Create%20query%202%20-%20fit%20query.png)
+  ![Fit youre select query and try it](./images/Create%20query%202%20-%20fit%20query.png)
 6. Add your **charts**
   ![Create Query Screenshot](./images/Create%20query%203%20-%20add%20chart.png)
 7. Add your **analytics**
