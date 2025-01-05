@@ -34,7 +34,7 @@ After installing, follow these steps to create your first query:
 3. Apply **dynamic filters** to customize your report (e.g., time period, country, product).
 
 ![Select your database connexion](./images/Create%20query%202%20-%20fit%20query.png)
-![Create Query Screenshot - STEP 2 fit your query](./images/Create query 2 - fit query.png)
+![Create Query Screenshot - STEP 2 fit your query](./images/Create%20query%202%20-%20fit%20query.png)
 ---
 
 ## **3. Generating Charts and Reports**
