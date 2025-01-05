@@ -37,9 +37,15 @@ After installing, follow these steps to create your first query:
 5. Add your **query**
   ![Fit youre select query](./images/Create%20query%202%20-%20fit%20query.png)
 6. Add your **charts**
-  ![Create Query Screenshot - STEP 2 fit your query](./images/Create%20query%203%20-%20add%20chart.png)
+  ![Create Query Screenshot](./images/Create%20query%203%20-%20add%20chart.png)
 7. Add your **analytics**
-   ![Create Query Screenshot - STEP 2 fit your query](./images/Create%20query%204%20-%20add%20analytics.png)
+   ![Create Query Screenshot](./images/Create%20query%204%20-%20add%20analytics.png)
+8. Run your **Report**
+   ![Create Query Screenshot](./images/Create%20query%205%20-%20Run%20report.png)
+9. View your **Report**
+   ![Create Query Screenshot](./images/Create%20query%205%20-%20report%20View.png)
+10.Deploy your **Report**
+   ![Create Query Screenshot](./images/Create%20query%207%20-%20Deploy%20report.png)
 ---
 
 ## **3. Generating Charts and Reports**
