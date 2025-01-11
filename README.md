@@ -24,7 +24,7 @@
 
 ## Installation Guide
 
-1. [Download](https://drive.google.com/file/d/1KKUDZNUR5ZNySmQjcdSJsEWKG0prphGA/view?usp=sharing) the application file and unzip it to your desired folder.
+1. [Download](https://sourceforge.net/projects/orbitap/files/latest/download) the application file and unzip it to your desired folder.
 2. Ensure Java 8 (or higher) is installed on your system.
 3. Launch the application by clicking on the `Orbit` icon.
 4. Follow the in-app workflow to create and execute your first query.
