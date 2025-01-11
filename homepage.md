@@ -40,7 +40,7 @@ The Admin Console is where administrators can view, create, edit, and update all
 - **Edit Existing Reports:** Update parameters, layouts, and data sources as needed.
 - **Manage Permissions:** Control who can access each report.
 
-![Admin Console Image Placeholder](./images/)
+![Admin Console Image Placeholder](./images/Reportview.png)
 
 ---
 
@@ -52,7 +52,7 @@ Orbit provides a simple way to configure database connections, ensuring seamless
 - **Edit Existing Connections:** Modify connection details as your database environment evolves.
 - **Secure Access:** Ensure data integrity with secure connection settings.
 
-![Database Connections Image Placeholder](#)
+![Database Connections Image Placeholder](./images/databases.PNG)
 
 ---
 
@@ -64,11 +64,11 @@ The top menu bar in Orbit provides essential navigation tools to help users mana
 - **Close Unused Reports:** Keep your workspace tidy by closing reports you no longer need.
 - **Quick Navigation:** Seamlessly switch between different reports and sections of the tool.
 
-![Menu Navigation Image Placeholder](#)
+![Menu Navigation Image Placeholder](./images/NavigationBar.png)
 
 ---
 
 ## 🚀 Get Started with Orbit
-To start using Orbit, visit our [GitHub Repository](https://github.com/) and follow the setup instructions. Join our growing community and contribute to making business intelligence accessible to everyone.
+To start using Orbit, visit our [GitHub Repository]([https://github.com/](https://dashboardtools.github.io/Orbit/)) and follow the setup instructions. Join our growing community and contribute to making business intelligence accessible to everyone.
 
 Happy reporting! 🎉
