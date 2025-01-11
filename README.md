@@ -4,7 +4,7 @@
 
 **ORBIT** is a business intelligence tool designed to make data accessible to a broad audience within your company by centralizing access to databases. With this application, users can easily create reports, perform interactive analyses, and extract insights from raw data. The application simplifies data handling by providing easy-to-use features for non-technical users while maintaining flexibility for advanced queries.
 
-## Key Features ([ORBIT App Presentation](./homepage.md))
+## Key Features --> [ORBIT App Presentation](./homepage.md)
 
 - **Multi-Database Queries:** Generate reports by querying multiple databases simultaneously, applying dynamic filters to customize the report output (e.g., time periods, specific data subsets based on criteria like country, products, etc.).
 - **Chart Creation:** Visualize your data by generating charts such as histograms, line graphs, and pie charts from your query results.
