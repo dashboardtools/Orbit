@@ -94,4 +94,4 @@ Refine your data analysis by applying filters to any field in your query:
 
 ## **Need Help?**
 
-For more information or support, feel free to contact us via [support@datanube.com](mailto:dashboardtools@gmail.com).
+For more information or support, feel free to contact us via [ORBIT APP support](mailto:dashboardtools@gmail.com).
