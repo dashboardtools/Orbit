@@ -12,7 +12,7 @@ The main screen of Orbit serves as a central hub where users can quickly access 
 - **Search Functionality:** Easily find the report you need with the built-in search tool.
 - **Launch Reports:** Run your reports instantly and view the results in real-time.
 
-![Main Screen Image Placeholder](#)
+![Main Screen Image Placeholder](./images/mainpages.png)
 
 ---
 
@@ -25,9 +25,9 @@ Creating a new report in Orbit is a straightforward process. Here’s a step-by-
 4. **Customize the report layout and visuals.**
 5. **Deploy the report to make it available on the main screen.**
 
-For a detailed tutorial, check out our [Report Creation Guide](#).
+For a detailed tutorial, check out our [Report Creation Guide](./userGuide.md).
 
-![Workflow Image Placeholder](#)
+![Workflow Image Placeholder](./images/workflow.png)
 
 ---
 
@@ -40,7 +40,7 @@ The Admin Console is where administrators can view, create, edit, and update all
 - **Edit Existing Reports:** Update parameters, layouts, and data sources as needed.
 - **Manage Permissions:** Control who can access each report.
 
-![Admin Console Image Placeholder](#)
+![Admin Console Image Placeholder](./images/)
 
 ---
 
