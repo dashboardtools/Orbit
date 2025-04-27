@@ -21,7 +21,7 @@ To install the application, follow these steps:
 3. Ensure that **Java 8** or higher is installed on your system.
 4. Launch the application by clicking the `d-clic` icon.
 
-![Installation Screenshot](./images/main pages.png)
+![Installation Screenshot](./images/homepage.png)
 
 ---
 
