@@ -1,5 +1,5 @@
 # Orbit - Business Intelligence Made Simple
-
+![Running Screenshot](./images/runing.png)
 Orbit is an open-source operating business intelligence tool that empowers organizations to easily access and manage their data. Below is a detailed overview of its key features to help you get started with Orbit.
 
 ---
