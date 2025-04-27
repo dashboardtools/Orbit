@@ -16,7 +16,7 @@ Welcome to the documentation for **ORBIT**. This guide will walk you through the
 
 To install the application, follow these steps:
 
-1. **Download** the application file from the [release page](#).
+1. **Download** the application file from the [SourceForge page](https://sourceforge.net/projects/orbitap/).
 2. Unzip the downloaded file into your desired folder.
 3. Ensure that **Java 8** or higher is installed on your system.
 4. Launch the application by clicking the `d-clic` icon.
